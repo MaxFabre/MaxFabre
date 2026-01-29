@@ -1,16 +1,16 @@
-## Hi there 👋
+## 🔥 School solo projects
 
-<!--
-**MaxFabre/MaxFabre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔸 **UFO Fighter**
+  Repo : [Here](https://github.com/MaxFabre/UFO_fighter_LP2B)
 
-Here are some ideas to get you started:
+- 🔸 **Card Reader Simulator**
+  Repo : [Here](https://github.com/MaxFabre/Card-Reader-Simulator)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔸 **Logic Neuronal Network**
+  Repo : [Here](https://github.com/MaxFabre/Logic-Neuronal-Network)
+
+## 🤝 Collaborative projects
+
+- 🔹 **AI IQ Puzzler Pro Solver **  
+  Repo : [Here](https://github.com/NaNoMelo/IA41)
+  👉 Rôle : conception of the AI (and heuristics) and all of the UI (pygames)
