@@ -11,6 +11,6 @@
 
 ## 🤝 Collaborative projects
 
-- 🔹 **AI IQ Puzzler Pro Solver **  
+- 🔹 **AI IQ Puzzler Pro Solver**  
   Repo : [Here](https://github.com/NaNoMelo/IA41)
   👉 Rôle : conception of the AI (and heuristics) and all of the UI (pygames)
